@@ -1,6 +1,6 @@
-#awsm-users-crud-ddb-jwt-js
+#jaws-users-crud-ddb-jwt-js
 
-An `aws-module` containing a group of lambdas that perform user crud operations.
+An `jaws-module` containing a group of lambdas that perform user crud operations.
 
 **Uses:**
 * AWS Lambda
