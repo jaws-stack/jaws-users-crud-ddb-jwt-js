@@ -1,0 +1,14 @@
+{
+  "name": "jaws-users-show",
+  "version": "0.0.1",
+  "profile": "lambda",
+  "location": "https://github.com/jaws-stack/jaws-users-crud-ddb-jwt-js",
+  "author": "JAWS",
+  "description": "A lambda function to fetch a user from the database and show them",
+  "functionName": "users-show",
+  "handler": "index.handler",
+  "runtime": "nodejs",
+  "memorySize": 513,
+  "timeout": 5,
+  "cfTemplate":{}
+}
